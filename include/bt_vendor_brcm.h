@@ -356,7 +356,7 @@
     is received.
 */
 #ifndef HW_END_WITH_HCI_RESET
-#define HW_END_WITH_HCI_RESET    TRUE
+#define HW_END_WITH_HCI_RESET    FALSE
 #endif
 
 /******************************************************************************
